@@ -6,7 +6,7 @@ I have decided to help them and provide a learning path/roadmap that these guys 
 
 **1. Basic Programming Skills:**
 
-To start this journey, basic programming knowledge is required, which users can get using the following two courses
+To start this journey, basic programming knowledge is required, which users can get using the following any of the following courses
 
 1. C Tutorial by Apna College
 
@@ -21,6 +21,12 @@ Youtube Link: [https://www.youtube.com/watch?v=irqbmMNs2Bo&t=964s](https://www.y
 Youtube Link: [https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ](https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)
 
 When you are a beginner then watch the first 55 videos only from this playlist. Once you are a pro, then you can continue and watch all remaining videos which will help you in DSA round interviews if you are preparing for big tech companies.
+
+
+3. Java Complete Course by Apna College
+
+Youtube Link: [https://www.youtube.com/watch?v=yRpLlJmRo2w&list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop](https://www.youtube.com/watch?v=yRpLlJmRo2w&list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop)
+
 
 **2. Web Development Basics:**
 
